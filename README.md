@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - 💬 Talk to me about Python, Machine Learning 
-- 🧩 Please have a look at my [Resume] for more details about me.
+- 🧩 Please have a look at my [\[Resume\]](https://drive.google.com/file/d/1SsshlyA38LdDw9wLZQdxXwHHvfrJhxr5/view?usp=sharing) for more details about me.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/jibintom?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
